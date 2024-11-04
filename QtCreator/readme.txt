@@ -1,0 +1,1 @@
+C:\Users\<User name>\AppData\Roaming\QtProject\qtcreator\styles\
